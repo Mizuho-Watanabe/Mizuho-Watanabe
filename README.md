@@ -48,7 +48,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [blade-app-practice](https://github.com/Mizuho-Watanabe/blade-app-practice) - 提供されたBladeファイルの動かし方　Tutorial9-2
 - [database-app-practice](https://github.com/Mizuho-Watanabe/database-app-practice) - 商品管理システムのデータベース構築 Tutorial9-3
 - [eloquent-app-practice](https://github.com/Mizuho-Watanabe/eloquent-app-practice) - ブログシステムのモデル作成　Tutorial9-4
-- [relation-app-practice]（https://github.com/Mizuho-Watanabe/relation-app-practice） - リレーションを使ったブログシステムの作成 Tutorial9-5
+- [relation-app-practice](https://github.com/Mizuho-Watanabe/relation-app-practice) - リレーションを使ったブログシステムの作成 Tutorial9-5
 - [validation-app-practice](https://github.com/Mizuho-Watanabe/validation-app-practice) - フォームリクエストを使ったバリデーションと日本語エラーメッセージを備えた「ユーザー登録フォーム」の作成 Tutorial9-6
 - [auth-app-practice](https://github.com/Mizuho-Watanabe/-auth-app-practice) - Laravel Fortifyを使ったログイン・ログアウト・ユーザー登録機能と、認証が必要なダッシュボードの作成 Tutorial10-1
 - [middleware-app-practice](https://github.com/Mizuho-Watanabe/middleware-app-practice) - カスタムミドルウェアを使った、管理者のみアクセスできる「管理者専用ページ」　Tutorial10-2
